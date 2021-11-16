@@ -1,8 +1,10 @@
-<p align="center"><b>🎵 KENNEDY X MUSIC 🎵</b></p>
+<p align="center"><a href="https://t.me/BinarySupport"><img src="https://telegra.ph/file/4239a2de29f5f2d6a94ab.png" width="720"></a></p>
 
-<p align="center"><b> KennedyXMusic is a Music powerfull bot for playing music on telegram voice chat groups. </b></p>
+<p align="center"><b>🎶 BINARY MUSIC 🎶</b></p>
 
-<p align="center"><a href="https://t.me/emikosupport"><img src="https://telegra.ph/file/d8f2eadbe79a4c949bb93.jpg" width="340"></a></p>
+<p align="center"><b> BinaryMusic is a Music powerfull bot for playing music on telegram voice chat groups.</b></p>
+
+
 
 <h3>Requirements</h3>
 
@@ -15,11 +17,11 @@
 
 ### Get SESSION_NAME from here:
 
-[![GenerateString](https://img.shields.io/badge/repl.it-generateString-blue)](https://replit.com/@KennedyProject/String-Session#main.py)
+[![GenerateString](https://img.shields.io/badge/repl.it-GenerateString-purple)](https://replit.com/@verdudev/String-Generate) ``Pyrogram``
 
 ### 🔎 Support Inline Search
 
-### Heroku Deployment 💜
+### Heroku Deployment <img src="./etc/Anipurple.gif" width="40px">
 The easy way to host this bot, deploy to Heroku
 
 [![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/verdudev/BinaryXMusic)
@@ -32,8 +34,8 @@ The easy way to host this bot, deploy to Heroku
 - curl -sL https://deb.nodesource.com/setup_16.x | bash -
 - sudo apt-get install -y nodejs
 - npm i -g npm
-- git clone https://github.com/KennedyProject/KennedyXMusic # Clone your repo.
-- cd KennedyXMusic
+- git clone https://github.com/verdudev/BinaryXMusic # Clone your repo.
+- cd BinaryXMusic
 - pip3 install -U -r requirements.txt
 - cp example.env .env #Use vim to edit ENV
 - vim .env #Fill up your ENVs ( Steps press i to enter in insert mode then edit the file. Press Esc to exit the editing mode then type :wq! and press Enter key to save the file.)
@@ -45,6 +47,7 @@ The easy way to host this bot, deploy to Heroku
 - [Feri](https://github.com/FeriEXP) Dev
 - [RojSerBest](https://github.com/rojserbest) CallsMusic Developer
 - [Veez Music](https://github.com/levina-lab/veezmusic) Veez Music
+- [Verdudev](https://github.com/verdudev/) Fork-Edit
 
 ### Support & Updates 🛵
-<a href="https://t.me/emikosupport"><img src="https://img.shields.io/badge/Join-Group%20Support-red.svg?style=for-the-badge&logo=Telegram"></a> <a href="https://t.me/KennedyProject"><img src="https://img.shields.io/badge/Join-Updates%20Channel-white.svg?style=for-the-badge&logo=Telegram"></a>
+<a href="https://t.me/BinarySupport"><img src="https://img.shields.io/badge/Join-Group%20Support-blue.svg?style=for-the-badge&logo=Telegram"></a> <a href="https://t.me/ChannelBinary"><img src="https://img.shields.io/badge/Join-Updates%20Channel-blue.svg?style=for-the-badge&logo=Telegram"></a>
